@@ -1,0 +1,5 @@
+../Core/Src/bluetooth.c:28:6:Wait_init	8	static
+../Core/Src/bluetooth.c:54:6:Work_init	8	static
+../Core/Src/bluetooth.c:78:6:Find_init	8	static
+../Core/Src/bluetooth.c:105:6:SwitchMode	16	static
+../Core/Src/bluetooth.c:124:6:Send_RSSI	4	static

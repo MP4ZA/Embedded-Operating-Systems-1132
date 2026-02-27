@@ -1,0 +1,13 @@
+../Core/Src/main.c:88:6:Buzz	3
+../Core/Src/main.c:102:6:Orange_LED	2
+../Core/Src/main.c:114:6:HAL_UARTEx_RxEventCallback	18
+../Core/Src/main.c:182:5:main	5
+../Core/Src/main.c:247:6:SystemClock_Config	3
+../Core/Src/main.c:293:13:MX_I2C1_Init	2
+../Core/Src/main.c:327:13:MX_I2S3_Init	2
+../Core/Src/main.c:361:13:MX_SPI1_Init	2
+../Core/Src/main.c:399:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:430:13:MX_DMA_Init	1
+../Core/Src/main.c:451:13:MX_GPIO_Init	1
+../Core/Src/main.c:570:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:588:6:Error_Handler	1
